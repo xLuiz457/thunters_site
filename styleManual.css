@@ -1,0 +1,21 @@
+@media (max-width: 1200px)
+{
+    #logo
+    {
+        background-color:black;
+        width: 800px;
+    }
+    #img
+    {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 760px)
+{
+    #logo
+    {
+        background-color:yellow;
+        width: 500px;
+    }
+}
