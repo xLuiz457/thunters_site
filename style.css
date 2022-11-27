@@ -1,0 +1,14 @@
+.container h1 {
+    color: rgb(45, 0, 93);
+    font-size: 70px;
+}
+
+.container h3 {
+    color: rgb(55, 0, 112);
+    font-size: 35px;
+}
+
+.container p {
+    font-size: 20px;
+    text-align: justify;
+}

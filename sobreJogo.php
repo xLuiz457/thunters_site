@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="pictures/logo.png" type="image/x-icon">
+    <title>Jogo | Treasure Hunters</title>
+</head>
+<body style="background-color:#a9eaf0">
+    <nav class="navbar navbar-dark navbar-expand-lg bg-dark fixed-top px-md-5">
+        <a class="navbar-brand" href="index.php" style="color:#6f42c1; font-size:35px;">Treasure Hunters</a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto" style="font-size:20px">
+                <li class="nav-item">
+                    <a class="nav-link active" href="sobreJogo.php">Jogo</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="manual.php">Manual</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="sobreEquipe.php">Equipe</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="contato.php">Contato</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container" style="margin-top:150px">
+        <h1>Sobre o jogo</h1><br>
+
+        <h3>Sinopse</h3>
+        <p>No ano de 1711, havia um homem de 23 anos chamado Albert, ele vivia com o seu pai em uma casa simples próxima a uma doca de pescaria, na Britânia; trabalhando como pescador junto com o seu pai. Albert era um homem esperto e muito sonhador, ele sonhava em ter riquezas, casas, carros e etc, mas não gostava do seu trabalho; já seu pai era um homem sério e muito pé no chão, ele acreditava que sua vida já estava predestinada a ser como ela já estava e que essa seria a sua melhor opção de vida, uma vida fajuta e simples de um humilde pescador. Por isso, o pai de Albert não acreditava que seu filho pudesse ter algo melhor na vida ou ser alguém importante!
+        Albert sabendo disso, resolveu fugir de casa e deixar um bilhete dizendo que conseguiria uma vida melhor para eles dois, provaria que ele é alguém importante, e que um dia voltaria para encontrar o seu pai. Logo em seguida, ele foi para as docas e acabou roubando um navio similar a de um pirata junto com alguns recursos que havia nele, como um canhão de pólvora e um mapa de tesouro escondido! No mapa havia uma localização de um X marcando um lugar no mar chamado Triângulo das Bermudas, e o Albert sem conhecer esse lugar, resolveu ir até lá.</p><br><br>
+
+        <h3>Características e Categoria</h3>
+        <p><b>Gênero e gameplay</b>: este é um jogo arcade com elementos de aventura e história, em que você assume sozinho o controle de um navio de madeira e deve combater os inimigos que te atacam no mundo em que o jogo se passa. Porém, você deve decidir entre controlar, atacar ou parar o navio para que possa combater os inimigos.</p><br><br>
+
+        <h3>Referências</h3>
+        <p><b>Space Invaders</b>: é um jogo de videogame de arcade desenhado por Tomohiro Nishikado e lançado em 1978. Foi originalmente construído pela Taito Corporation e um tempo depois foi licenciado para produção nos Estados Unidos pela Midway Games. Space Invaders foi um dos primeiros jogos de tiro com gráfico bidimensional.</p>
+        <p><b>Asteroids</b>: é um jogo de arcade com gráficos vetoriais muito popular lançado em 1979 pela Atari. O objetivo do jogo é destruir asteroides sem se deixar ser atingido por seus fragmentos.</p>
+        <p><b>Lovers in a Dangerous Spacetime</b>: é um jogo frenético de ação e tiros no espaço para 1 a 4 jogadores. Explore uma galáxia cheia de cores numa enorme nave de guerra neon que você e outro jogador controlam juntos através de torres, lasers, escudos e turbos. Somente com o trabalho em equipe vocês conseguirão vencer as forças maléficas do Anti-Amor, resgatar os coelhinhos-espaciais raptados e evitar a morte no vácuo sideral.</p>
+    </div>
+</body>
+</html>
